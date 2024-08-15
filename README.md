@@ -1,4 +1,4 @@
-# Credit-Card-Users-Segmentation-of-Bank-using-Clustering-Models
+# Bank Customer Segmentation using Clustering Model 
 
 ##  Introduction
 Nama  : Vicky Belario
