@@ -1,3 +1,6 @@
+![People talking with managers in bank flat vector illustration](https://github.com/user-attachments/assets/dca3d228-7c41-4100-8cf4-fbc93b04531d)
+
+
 # Bank Customer Segmentation using Clustering Model 
 
 ##  Introduction
